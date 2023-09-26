@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royabhi647&label=Profile%20views&color=0e75b6&style=flat" alt="royabhi647" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
+- 🌱 I’m working on **JavaScript, React.js, Node.js, Express.js, mongoDB**
 
 - 📫 How to reach me **royabhi647@gmail.com**
 
